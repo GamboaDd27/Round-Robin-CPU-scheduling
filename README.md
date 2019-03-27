@@ -1,4 +1,4 @@
-## Round-Robin-CPU-scheduling
+# Round-Robin-CPU-scheduling
 Python implementation of the Round Robin CPU scheduling algorithm
 
 ## Getting Started
@@ -45,4 +45,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-#Made with 💖 in NYC
+Made with 💖 in NYC
