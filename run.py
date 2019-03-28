@@ -1,3 +1,6 @@
 #todo add functionality
+import csv
 
-print("siono rasa")
+with open("file.csv") as myFile:
+	
+remainingBt=[]
